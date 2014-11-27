@@ -1,5 +1,8 @@
 .DS_Store
 
+assets/scss/.sass-cache/
+assets/scss/.sass-cache/*
+
 application/cache/*
 !application/cache/index.html
 !application/cache/.htaccess
