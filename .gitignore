@@ -2,13 +2,15 @@
 .c9
 .c9/*
 
-assets/scss/.sass-cache/
-assets/scss/.sass-cache/*
+.sass-cache/
+.sass-cache/*
 
-application/cache/*
-!application/cache/index.html
-!application/cache/.htaccess
-
-application/logs/*
-!application/logs/index.html
-!application/logs/.htaccess
+nbproject
+._*
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+composer.lock
+vendor/bin
